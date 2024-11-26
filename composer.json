@@ -1,0 +1,9 @@
+{
+    "name": "softedify/reward-admin",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/"
+        }
+    }
+}
